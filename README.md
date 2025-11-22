@@ -27,7 +27,7 @@ With more time, these edge cases and visual inconsistencies can be resolved thro
 
 ## Quick Start
 ```bash
-python spotlight_mock.py <YOUR_TOKEN> <YOUR_FILE_KEY>
+python softlight_mock.py <YOUR_TOKEN> <YOUR_FILE_KEY>
 # Generates: output.html + styles.css
 ```
 ** Download the html and css file in same folder and run with your browser.(Without running code)
