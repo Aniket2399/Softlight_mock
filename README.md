@@ -7,8 +7,6 @@ Thank you for this opportunity! Building this converter was an excellent learnin
 **Figma API Rate Limiting:**  
 During development, I encountered Figma's API rate limits (see screenshot below). To work around this, I used the exported JSON file directly for the provided design assignment.
 
-<img width="677" height="688" alt="Screenshot 2025-11-20 at 10 54 59 PM" src="https://github.com/user-attachments/assets/83d75c54-7986-4aa2-ac98-c8fb03d17dc8" />
-
 **Current Scope:**  
 This converter is optimized for the specific Figma design provided in the assignment. While the architecture is designed to be generalizable, it may require additional edge case handling to work flawlessly with all Figma designs.
 
